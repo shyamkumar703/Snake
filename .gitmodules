@@ -1,0 +1,3 @@
+[submodule "Snake-iOS"]
+	path = Snake-iOS
+	url = https://github.com/shyamkumar703/Snake-iOS
